@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m Azan.</h1>
 - 👀 I’m interested in coding and developing new things.<br>
-- 🌱 I’m currently learning web development.<br>
+- 🌱 I’m currently learning full stack web development.<br>
 - 💞️ I’m looking to collaborate on various fun projects.<br>
 - 📫 You can reach me via <a href="https://www.facebook.com/azan.01203">Facebook</a> and <a href="mailto:azanrashid26@gmail.com">Email</a>
 
