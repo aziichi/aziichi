@@ -39,9 +39,12 @@
 </div>
 <br>
 <br>
-<div display="flex" align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aziichi&show_icons=true&theme=synthwave" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aziichi&theme=synthwave" />
+</div>
+<br>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziichi&theme=synthwave" />
 </div>
 <br>
 <h2 align="center">Connect with me</h2>
