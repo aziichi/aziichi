@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="38px">, I’m Azan. </h1>
 
 <h2 align="center">About me </h2>
-<ul align="center">
+<ul>
 👽 A computer science student.<br>
 🌐 Learning web development with MERN stack.<br>
 🤖 Deeply interested in AI and Machine Learning.<br>
