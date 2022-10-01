@@ -3,7 +3,7 @@
 <h2 align="center">About me </h2>
 <ul>
 👽 A computer science student.<br>
-🌐 Learning web development with MERN stack.<br>
+🌐 Experience with web development.<br>
 🤖 Deeply interested in AI and Machine Learning.<br>
 💻 I'm looking to collaborate on and contribute to various interesting projects.<br>
 </ul>
